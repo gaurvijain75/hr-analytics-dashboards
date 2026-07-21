@@ -41,9 +41,7 @@ This project analyzes an HR employee dataset to understand workforce composition
 | Average Experience | 11.3 yrs |
 
 ## Dashboard Preview
-
-![HR Analytics Dashboard] Screenshot 2026-07-15 151856.png
-
+![HR Analytics Dashboard](Screenshot%202026-07-15%20151856.png)
 ## 🔍 Key Findings
 
 - **Department risk:** Administration (36%) and Sales (23%) drive the largest share of attrition, despite Operations having the largest headcount (512 employees)
