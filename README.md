@@ -42,7 +42,7 @@ This project analyzes an HR employee dataset to understand workforce composition
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](Screenshot 2026-07-15 151856.png)
+![HR Analytics Dashboard] Screenshot 2026-07-15 151856.png
 
 ## 🔍 Key Findings
 
