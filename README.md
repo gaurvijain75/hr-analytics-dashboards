@@ -64,5 +64,4 @@ This project analyzes an HR employee dataset to understand workforce composition
 
 - `HR_Analytics_Preprocessing_Dashboard.pptx` — full presentation walking through the preprocessing steps and dashboard
 
----
-*Project by Gaurvi Jain | BDT Lab Assignment 1 | LY B.Tech CSE (AI & DS)*
+
